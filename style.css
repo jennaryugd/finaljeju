@@ -1,0 +1,93 @@
+body{
+  font-family: meta pro;
+  background-image: linear-gradient(180deg,aqua,yellow)
+}
+
+header{
+    text-align: center;
+    height: 30px;/*width와 height를 이용하여 사각형이였던 모양을 원형으로 바꾸어 주었다.*/
+    background-color: rgb(52,88,255);
+    margin: 0px 0px 0px 0px;/*사각으로 모든 넓이가 30px를 뜻한다 (위 오른쪽 바닥 왼쪽)*/
+    padding: 10px;
+     /*-->이건 둥글게 만들어주는거*/
+    
+}
+
+h1{
+  font-size: 30pt;
+  text-align: center;
+  color: white;
+ 
+}
+
+h2{
+  font-size: 20pt;
+  text-align: center;
+  color:rgb(52,88,255);
+  border-bottom: 3px solid rgb(52,88,255);
+  margin: 10px 10px 10px 0;
+  padding: 10px 10px 10px 0;
+ 
+}
+
+p{
+  text-align: center;
+}
+
+h3{
+  font-size: 20pt;
+  text-align: center;
+  color:rgb(52,88,255);
+  border-bottom: 3px solid rgb(52,88,255);
+  margin: 10px 10px 10px 0;
+  padding: 10px 10px 10px 0;
+ 
+}
+
+p{
+  text-align: center;
+  img-spacing: 30pt;
+
+}
+
+h4{
+  font-size: 20pt;
+  text-align: center;
+  font-family: meta pro;
+  color:rgb(52,88,255);
+  border-bottom: 3px solid rgb(52,88,255);
+  margin: 10px 10px 10px 0;
+  padding: 10px 10px 10px 0;
+    
+}
+
+p{
+  text-align: center;
+}
+
+a{
+  text-decoration: underline;
+  color: rgb(255,51,122);
+}
+
+a:hover{
+  color: rgb(227,0,224);
+  font-size:25px;
+}
+
+p{
+  text-aligh: center;
+}
+
+h5{
+  font-family: meta pro;
+  font-size:20px;
+  background: white;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+}
+
+
